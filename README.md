@@ -24,7 +24,7 @@ Scanner (for user input)
 
 Clone this repository:
 
-git clone https://github.com/your-username/Basic-Java-restaurant-application.git
+git clone https://github.com/Rithika-macharla/Basic-Java-restaurant-application.git
 
 
 Navigate to the project folder.
